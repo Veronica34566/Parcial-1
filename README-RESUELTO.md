@@ -208,5 +208,5 @@ python budget_cli.py delete --id 1
 - Código modular y comentado ✅  
 - CLI clara con argparse ✅  
 
-**Total: 100/100 (aprobado con éxito).**
+
 
